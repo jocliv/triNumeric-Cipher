@@ -11,23 +11,23 @@ You will be prompted to enter a '1' for encryption or '2' for decryption.
 Encryption example:                               
 
 1 to encrypt, 2 to decrypt: 1
-
 Enter plaintext(letters only):
+This is a confidental message
 
-This is message is condidental
 
-Key(integer): 211
+Key(integer): 81321
 Keyword: linux
 
-68204 40533 50505 40368 56085 53067 52206 55495 63190
+55026 79683 66038 67482 84786 54585 75723 79198 80797
+
 
 Dencryption example: 
 
 1 to encrypt, 2 to decrypt: 2
 Enter ciphertext(numbers only):
-68204 40533 50505 40368 56085 53067 52206 55495 63190
+55026 79683 66038 67482 84786 54585 75723 79198 80797
 
-Key(integer): 211
+Key(integer): 81321
 Keyword: linux
 
-THI SIS MES SAG EIS CON DID ENT ALX
+THI SIS ACO NFI DEN TAL MES SAG EXX
