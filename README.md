@@ -11,7 +11,9 @@ You will be prompted to enter a '1' for encryption or '2' for decryption.
 Encryption example:                               
 
 1 to encrypt, 2 to decrypt: 1
+
 Enter plaintext(letters only):
+
 This is message is condidental
 
 Key(integer): 211
